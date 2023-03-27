@@ -1,4 +1,4 @@
-### Olá dev, pagina em construção! 👋
+### Olá dev, pagina em constante evolução! 👋
 
 <!--
 **rickdevcod/rickdevcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
