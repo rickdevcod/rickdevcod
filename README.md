@@ -1,4 +1,4 @@
-### Olá dev, pagina em constante evolução! 👋
+### Olá a todos, veja meu ultimo repositório CalculoBonusPlataforma, na aba Repositórios. 👋
 
 <!--
 **rickdevcod/rickdevcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
