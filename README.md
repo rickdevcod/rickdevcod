@@ -1,4 +1,4 @@
-### Olá a todos, veja meu ultimo repositório CalculoBonusPlataforma, na aba Repositórios.
+### Olá a todos.
 https://github.com/rickdevcod/calculoBonusPlataforma 👋
 
 <!--
