@@ -4,7 +4,11 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tribulus22214@gmail.com)
 
 
-![rickdevcod GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/rickdevcod">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&rank_icon=github&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 ### Tecnologias que estudo diariamente🔥
 <div style="display: inline_block"><br/>
