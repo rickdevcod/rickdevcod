@@ -1,14 +1,14 @@
 👋 Olá, mundo! me chamo Ricardo Toledo, sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas
 
-📚 Sobre Mim
+📚 Sobre Mim:
   No universo dos bits e bytes, estou trilhando minha jornada acadêmica no curso de Análise e Desenvolvimento de Sistemas na FIAP,
     onde descubro as maravilhas da lógica de programação, da criação de algoritmos e das arquiteturas que movem o mundo digital.
 
-🚀 Além do Código
+🚀 Além do Código:
   Enquanto estou imerso no mundo digital, minha curiosidade me leva a explorar diferentes horizontes. 
     Seja mergulhando em livros, explorando a natureza ou trocando ideias com mentes criativas, estou sempre em busca de inspiração para trazer para o meu código.
 
-🛠️ Projetos e Repositórios
+🛠️ Projetos e Repositórios:
     Neste repositório, você encontrará uma coleção de projetos que representam minha evolução como desenvolvedor, desde pequenos projetos a grandes e ambiciosos.
 
 🌐 Vamos Criar Algo Juntos?
