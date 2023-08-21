@@ -1,4 +1,19 @@
-### Olá me chamo Ricardo Toledo👋
+👋 Olá, mundo! me chamo Ricardo Toledo, sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas
+
+📚 Sobre Mim
+  No universo dos bits e bytes, estou trilhando minha jornada acadêmica no curso de Análise e Desenvolvimento de Sistemas na FIAP,
+    onde descubro as maravilhas da lógica de programação, da criação de algoritmos e das arquiteturas que movem o mundo digital.
+
+🚀 Além do Código
+  Enquanto estou imerso no mundo digital, minha curiosidade me leva a explorar diferentes horizontes. 
+    Seja mergulhando em livros, explorando a natureza ou trocando ideias com mentes criativas, estou sempre em busca de inspiração para trazer para o meu código.
+
+🛠️ Projetos e Repositórios
+    Neste repositório, você encontrará uma coleção de projetos que representam minha evolução como desenvolvedor, desde pequenos projetos a grandes e ambiciosos.
+
+🌐 Vamos Criar Algo Juntos?
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rick-toledo-6032a1183/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521998194524)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tribulus22214@gmail.com)
@@ -22,7 +37,3 @@
 <img align="center"alt="SQLserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img align="center"alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
-
-- ## Acredito que a tecnologia tem o poder de moldar o mundo.
-
-- ## Email público: (tribulus22214@gmail.com)
