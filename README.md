@@ -18,7 +18,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521998194524)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tribulus22214@gmail.com)
 
-![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=dark)
+![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=dracula)
 
 
 ### Tecnologias que estudo diariamente🔥
