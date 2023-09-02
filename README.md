@@ -18,10 +18,9 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521998194524)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tribulus22214@gmail.com)
 
-![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=default&bg_color=90deg,e6f7ff,ffd6e6,adebad&text_color=333333)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,E6F7FF,FFD6E6&text_color=333333)
 
-
+![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=default&bg_color=90deg,ffffff,FF66B2,007BFF&text_color=333333&title_color=007BFF&icon_color=FF66B2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,000428,004e92&text_color=FFFFFF)
 
 
 ### Tecnologias que estudo diariamente🔥
