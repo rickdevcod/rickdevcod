@@ -19,8 +19,10 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tribulus22214@gmail.com)
 
 
-![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=default&bg_color=90deg,ffffff,FF66B2,007BFF&text_color=333333&title_color=007BFF&icon_color=FF66B2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,000428,004e92&text_color=FFFFFF)
+![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=default&bg_color=0dcaf0,007BFF&text_color=333333&title_color=007BFF&icon_color=FF66B2&custom_title=GitHub%20Stats&hide_border=true&hide_rank=true&line_height=30&area=true&border_radius=10)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rickdevcod&theme=radical&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&theme=radical)
+
 
 
 ### 🔥Tecnologias que estudo diariamente🔥
