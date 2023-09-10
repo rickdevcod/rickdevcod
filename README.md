@@ -11,7 +11,7 @@
 🛠️ Projetos e Repositórios:
     Neste repositório, você encontrará uma coleção de projetos que representam minha evolução como desenvolvedor, desde pequenos projetos a grandes e ambiciosos.
 
-🌐 Vamos Criar Algo Juntos? Lets go!
+🌐 Vamos Criar Algo Juntos? Lets go!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rick-toledo-6032a1183/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521998194524)
