@@ -1,3 +1,5 @@
+![Portifólio Atualizado](https://rickdevcod.github.io/NovoPortifolio/)
+
 👋 Olá, mundo! me chamo Ricardo Toledo, sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas
 
 📚 Sobre Mim:
